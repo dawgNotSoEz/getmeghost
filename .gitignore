@@ -1,0 +1,27 @@
+# Large archive files
+ollama.tar
+ollama.tar.zst
+ollama.tgz
+
+# Executables & libraries
+bin/
+lib/
+
+# Virtual Environments & dependencies
+backend/venv/
+node_modules/
+.next/
+dist/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build and cache exclusions
+__pycache__/
+*.pyc

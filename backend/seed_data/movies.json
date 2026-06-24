@@ -1,0 +1,66 @@
+[
+  {
+    "tmdb_id": "838240",
+    "title": "Exhuma",
+    "original_title": "파묘",
+    "release_year": 2024,
+    "country": "South Korea",
+    "language": "Korean",
+    "runtime": 134,
+    "director": "Jang Jae-hyun",
+    "cast": ["Choi Min-sik", "Kim Go-eun", "Yoo Hae-jin", "Lee Do-hyun"],
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "synopsis": "The process of excavating an ominous grave unleashes long hidden secrets and dreadful consequences buried underneath."
+  },
+  {
+    "tmdb_id": "587496",
+    "title": "Incantation",
+    "original_title": "咒",
+    "release_year": 2022,
+    "country": "Taiwan",
+    "language": "Chinese",
+    "runtime": 110,
+    "director": "Kevin Ko",
+    "cast": ["Tsai Hsuan-yen", "Huang Sin-ting", "Kao Ying-hsuan"],
+    "genres": ["Horror", "Mystery"],
+    "synopsis": "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions."
+  },
+  {
+    "tmdb_id": "818726",
+    "title": "Gonjiam: Haunted Asylum",
+    "original_title": "곤지암",
+    "release_year": 2018,
+    "country": "South Korea",
+    "language": "Korean",
+    "runtime": 95,
+    "director": "Jung Bum-shik",
+    "cast": ["Wi Ha-joon", "Park Sung-hoon", "Lee Seung-wook"],
+    "genres": ["Horror", "Thriller"],
+    "synopsis": "The crew of a horror web series travels to an abandoned asylum for a live broadcast. They encounter much more than expected."
+  },
+  {
+    "tmdb_id": "157336",
+    "title": "Hereditary",
+    "release_year": 2018,
+    "country": "United States",
+    "language": "English",
+    "runtime": 127,
+    "director": "Ari Aster",
+    "cast": ["Toni Collette", "Alex Wolff", "Milly Shapiro"],
+    "genres": ["Horror", "Drama", "Mystery"],
+    "synopsis": "A grieving family is haunted by tragic and disturbing occurrences, and begins to unravel dark secrets."
+  },
+  {
+    "tmdb_id": "434742",
+    "title": "The Wailing",
+    "original_title": "곡성",
+    "release_year": 2016,
+    "country": "South Korea",
+    "language": "Korean",
+    "runtime": 156,
+    "director": "Na Hong-jin",
+    "cast": ["Kwak Do-won", "Hwang Jung-min", "Chun Woo-hee"],
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "synopsis": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery."
+  }
+]
